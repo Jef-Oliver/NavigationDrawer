@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+<!--        <item-->
+<!--            android:id="@+id/nav_home"-->
+<!--            android:icon="@drawable/ic_menu_camera"-->
+<!--            android:title="@string/menu_home" />-->
+<!--        <item-->
+<!--            android:id="@+id/nav_gallery"-->
+<!--            android:icon="@drawable/ic_menu_gallery"-->
+<!--            android:title="@string/menu_gallery" />-->
+<!--        <item-->
+<!--            android:id="@+id/nav_slideshow"-->
+<!--            android:icon="@drawable/ic_menu_slideshow"-->
+<!--            android:title="@string/menu_slideshow" />-->
+        <item
+            android:id="@+id/nav_primeiro_periodo"
+            android:icon="@drawable/graduacao"
+            android:title="@string/menu_primeiro_periodo" />
+        <item
+            android:id="@+id/nav_segundo_periodo"
+            android:icon="@drawable/graduacao"
+            android:title="@string/menu_segundo_periodo" />
+        <item
+            android:id="@+id/nav_terceiro_periodo"
+            android:icon="@drawable/graduacao"
+            android:title="@string/menu_terceiro_periodo" />
+        <item
+            android:id="@+id/nav_quarto_periodo"
+            android:icon="@drawable/graduacao"
+            android:title="@string/menu_quarto_periodo" />
+        <item
+            android:id="@+id/nav_quinto_periodo"
+            android:icon="@drawable/graduacao"
+            android:title="@string/menu_quinto_periodo" />
+        <item
+            android:id="@+id/nav_sexto_periodo"
+            android:icon="@drawable/graduacao"
+            android:title="@string/menu_sexto_periodo" />
+
+    </group>
+</menu>

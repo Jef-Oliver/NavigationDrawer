@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Atividade3PDM2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="menu_primeiro_periodo">1º Período</string>
+    <string name="menu_segundo_periodo">2º Período</string>
+    <string name="menu_terceiro_periodo">3º Período</string>
+    <string name="menu_quarto_periodo">4º Período</string>
+    <string name="menu_quinto_periodo">5º Período</string>
+    <string name="menu_sexto_periodo">6º Período</string>
+</resources>
